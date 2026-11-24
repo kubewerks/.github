@@ -1,9 +1,9 @@
-# Kubewerks
+# KubeWerks
 
-**Everything is a building block.**
+**Compose apps for the way your business works.**
 
-Kubewerks is building a composable platform for humans and agents to build, connect and run systems.
+KubeWerks is building a platform for composing business apps from reusable capabilities. Create client workspaces, operations dashboards, and customer portals by connecting the records, workflows, and permissions each app needs.
 
-Our mission is to give people and agents one way to discover, connect and operate independent capabilities, with provider choice, visible usage and control over consequential actions.
+People and agents work with the same building blocks, with provider choice and control over consequential actions.
 
-[Explore Kubewerks](https://kubewerks.com) · [Join the waitlist](https://kubewerks.com/#waitlist)
+[Explore Apps](https://kubewerks.com/apps/) · [Join the waitlist](https://kubewerks.com/#waitlist)
